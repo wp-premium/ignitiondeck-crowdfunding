@@ -1,0 +1,5 @@
+Find all Starting with $tr: \$tr([\w-]+)
+Replace with $GLOBALS['tr<whatever the var name>']: $GLOBALS['tr$1']
+
+Find all with $GLOBALS['tr<>']: \$GLOBALS\['([\w-]+)']
+Replace with tr<>: $$$1

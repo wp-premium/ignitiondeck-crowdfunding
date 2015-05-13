@@ -1,0 +1,381 @@
+.wrap span.note {
+	color: #666;
+	background-color: #fffdea;
+	border: 1px solid #fefa89;
+	padding: 3px;
+}
+.wrap span.alert {
+	color: #666;
+	background-color: #ffe9e9;
+	border: 1px solid #ff7070;
+	padding: 3px;
+}
+.wrap label.title{
+	font-weight: bold;
+	font-size: 1.3em;
+}
+.wrap label img {
+	position: relative;
+	padding: 5px 5px 0 0;
+	bottom: -3px;
+}
+.wrap a.back {
+	border: 1px solid #ccc;
+	background-color: #efefef;
+	padding: 3px 8px;
+	border-radius: 3px;
+	display: inline-block;
+	width: auto;
+	text-decoration: none;
+}
+.wrap ul li.ign_projectmeta_left {
+	padding: 10px 0;
+	margin: 0;
+	float: left;
+	width: 50%;
+	clear: both;
+}
+.wrap ul li.ign_projectmeta_right {
+	padding: 10px 0;
+	margin: 0 2% 0 0;
+	float: right;
+	width: 48%;
+	clear: right;
+}
+.wrap ul li.ign_projectmeta_full {
+	padding: 10px 0;
+	margin: 0;
+	width: 100%;
+	clear: both;
+}
+.wrap ul li.ign_projectmeta_full .customEditor {
+	padding: 1px;
+	border: 1px solid #c9c9c9;
+}
+
+.wrap ul li.ign_projectmeta_full label, .wrap ul li.ign_projectmeta_full a.idMoreinfo {
+	margin-bottom: 10px;
+	display: inline-block;
+}
+.wrap .ign_file_upload {
+	float: left;
+	width: 450px;
+	margin: 10px 0;
+}
+.wrap .ign_file_upload .upload_button {
+	margin-top: 10px;
+}
+.wrap .ign_file_upload_image {
+	padding: 0;
+	margin: 0;
+	float: left;
+	clear: none;
+}
+.wrap ul li img.ign_image_tiny {
+	padding: 0;
+	margin: 0;
+	width: 70px;
+}
+.wrap ul li.ign_projectmeta_full .ign_image_crop {
+	padding: 0;
+	margin: 0 auto;
+	width: 70px;
+	height: 47px;
+	overflow: hidden;
+	display: block;
+}
+.wrap .ign_projectmeta_reward_left {
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 20%;
+	clear: left;
+}
+.wrap .ign_projectmeta_reward_left div, .wrap .ign_projectmeta_reward_left div {
+	width: auto;
+}
+.wrap .ign_projectmeta_reward_left input, .wrap .ign_projectmeta_reward_left input {
+	display: block;
+}
+.wrap .ign_projectmeta_reward_price {
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 20%;
+	clear: both;
+}
+.wrap .ign_projectmeta_reward_limit {
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 20%;
+	clear: left;
+}
+.wrap .ign_projectmeta_reward_left .ign_projectmeta_reward_limit {
+	margin-top: 65px;
+}
+.wrap .ign_projectmeta_reward_left .ign_projectmeta_reward_limit:last-child {
+	margin-top: 0;
+}
+.wrap .ign_projectmeta_reward_desc {
+	padding: 0;
+	margin: 0 2% 0 0;
+	float: right;
+	width: 78%;
+	clear: right;
+}
+.wrap .ign_projectmeta_reward_title {
+	padding: 0;
+	margin: 0 2% 5px 0;
+	float: none;
+	width: 98%;
+	clear: none;
+}
+.wrap .ign_projectmeta_reward_title input {
+	float: none;
+	width: 75%;
+	clear: none;
+	display: block;
+}
+.wrap .projectmeta-levelbox {
+	background-color: #f2f3f5;
+	margin-bottom: 10px;
+	padding: 8px;
+}
+.wrap .projectmeta_none {
+	display: none ;
+}
+.clear {
+	clear: both;
+}
+.wrap .projectmeta-levelbox h2 {
+	font-size: 24px;
+	font-weight: bold;
+	margin: -7px -7px 0 0 !important;
+	padding: 5px 10px !important;
+	float: right;
+	background-color: #dadde3;
+	text-shadow: 1px 1px 0 #ffffff;
+}
+.wrap .projectmeta-levelbox label {
+	font-weight: bold;
+}
+
+.new_levels h4 {
+	display: none;
+}
+
+.wrap .new_level label {
+	display: none;
+}
+.wrap ul li div {
+	padding: 0;
+	margin: 0;
+	clear: both;
+}
+.wrap ul li div.idIndent {
+	margin: 0 0 0 25px;
+}
+.wrap ul li div input {
+	margin: 0 7px 0 0;
+}
+
+.wrap div.sidebar h3.nav-tab-wrapper {
+	margin: 20px 0;
+}
+.wrap a.add-new-h2 {
+	margin: 0;
+}
+.id-embedwidget-ss {
+	margin: 15px 30px 0 0;
+	float: left;
+}
+.id-embedwidget-code {
+	float: left;
+}
+.wrap h4.ign_projectmeta_title {
+	font-size: 16px;
+	margin: 10px 0;
+	text-shadow: 2px 2px 0 #ffffff;
+}
+
+/* @group MoreInfo Button Styling */
+
+.wrap div.idMoreinfofull {
+	background: #f6f6f6;
+	border: 1px solid #fff;
+	margin: 10px 10px 10px 0;
+	padding: 10px;
+	max-width: 600px;
+	display: none;
+	overflow: hidden;
+}
+.wrap div.idMoreinfofull img {
+	clear: both;
+	display: block;
+	float: left;
+	margin: -5px 10px 5px -5px;
+}
+.wrap a.idMoreinfo {
+	position: relative;
+	font-size: 10px;
+	margin: 0 0 0 7px;
+	padding: 0;
+	bottom: 1px;
+	vertical-align: middle;
+}
+.wrap div.idMoreinfofull div.idSSwrap {
+	float: left;
+	border: 1px solid #a6a6a6;
+	background: #fbfbfb;
+	margin: 0 2px 0 0;
+	clear: none;
+}
+.wrap div.idMoreinfofull div.idSSwrap img {
+	margin: 0;
+}
+.wrap div.idMoreinfofull div.idSSwrap span {
+	float: left;
+	clear: left;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+}
+/* @end */
+
+/* @group Order Details */
+
+/*table.widefat tr td{
+	border: none;
+}*/
+table.widefat tr td.alternatetd{
+	/*border: none;*/
+}
+div.pagination a {
+	margin: 0 5px;
+}
+div.pagination a.prev {
+	margin: 0;
+}
+div.pagination a.next {
+	margin: 0;
+}
+div.pagination span.disabled {
+	display: none;
+}
+table.widefat.idOrders tr td {
+	border-bottom: none;
+}
+table.widefat tr td.orderoptions {
+	border-bottom: 1px solid #ccc;
+	border-top: none;
+	padding: 2px 0 3px 80px;
+	font-size: 90%;
+}
+table.widefat tr td.orderoptions a.delete{
+	padding: 0;
+	color: red;
+}
+table.widefat tr td.orderoptions a.delete:hover {
+	text-decoration: underline;
+}
+
+/* @end */
+
+/* @group Projects Admin Pages */
+
+span.ig-add-level {
+	cursor: pointer;
+	line-height: 28px;
+}
+.submitbox .submitdelete:hover {
+	color: #FFF !important;
+}
+
+/* @end */
+
+/* @group Orders Pages */
+.ignOrders h3 span {
+	position: absolute;
+}
+.ignOrders h3 span {
+	font-size: .7em;
+	position: relative;
+	top: -5px;
+}
+.ignOrders ul {
+	width: 500px;
+}
+.ignOrders ul li {
+	margin: 0 0 10px 0;
+}
+.ignOrders ul li.half {
+	width: 48.5%;
+	display: inline-block;
+	margin-right: 1%;
+}
+.ignOrders ul li.first {
+	width: 160px;
+	display: inline-block;
+	margin-right: 10px;
+	clear: both;
+}
+.ignOrders ul li.second {
+	width: 325px;
+	display: inline-block;
+}
+.ignOrders ul li label {
+	font-weight: bold;
+	font-size: .9em;
+	color: #aaa;
+}
+.ignOrders ul li div {
+	font-size: 1.5em;
+	color: #000;
+	
+}
+.ignOrders ul li input, .ignOrders ul li textarea {
+	width: 100%;
+	border-style: dashed;
+	border-color: #c7c7c7;
+	padding: 5px auto;
+	background-color: #f9f9f9;
+}
+
+.ignOrders ul li input.button-primary {
+	height: 30px;
+}
+
+/* @end */
+
+/* Supplemental */
+
+.wp-admin .ignitiondeck h2.title {
+	display: inline;
+	vertical-align: middle;
+}
+.wp-admin .ignitiondeck .icon32 {
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	background-image: url(../ignitiondeck/images/ignitiondeck-plugin-icon.svg);
+	background-size: 32px 32px;
+	background-repeat: no-repeat;
+	background-position: center;
+	vertical-align: middle;
+}
+.wp-admin .ignitiondeck .help {
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+}
+
+.wp-admin .ignitiondeck .help .button {
+	vertical-align: middle;
+}
+
+.wrap .license_validation {
+	background: #f1f1f1;
+	padding: 0 10px;
+	display: block;
+	border: 1px solid #e5e5e5;
+}

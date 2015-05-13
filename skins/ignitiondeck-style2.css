@@ -1,0 +1,283 @@
+.ignitiondeck .id-product-infobox {
+  background-image: rgba(127, 127, 127, 0.2);
+  /* Old browsers */
+  background-image: -moz-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0.3)), color-stop(100%, rgba(127, 127, 127, 0.2)));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -o-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -ms-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4DFFFFFF', endColorstr='#337F7F7F',GradientType=0); }
+.ignitiondeck .progress-wrapper {
+  background: -moz-linear-gradient(top, rgba(185, 185, 185, 0.5) 0%, rgba(201, 201, 201, 0) 56%, rgba(186, 186, 186, 0.5) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(185, 185, 185, 0.5)), color-stop(56%, rgba(201, 201, 201, 0)), color-stop(100%, rgba(186, 186, 186, 0.5)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(185, 185, 185, 0.5) 0%, rgba(201, 201, 201, 0) 56%, rgba(186, 186, 186, 0.5) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(185, 185, 185, 0.5) 0%, rgba(201, 201, 201, 0) 56%, rgba(186, 186, 186, 0.5) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(185, 185, 185, 0.5) 0%, rgba(201, 201, 201, 0) 56%, rgba(186, 186, 186, 0.5) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(185, 185, 185, 0.5) 0%, rgba(201, 201, 201, 0) 56%, rgba(186, 186, 186, 0.5) 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80b9b9b9', endColorstr='#80bababa',GradientType=0 );
+  /* IE6-9 */ }
+.ignitiondeck .progress-bar {
+  background: -moz-linear-gradient(top, rgba(185, 185, 185, 0) 0%, #cacaca 56%, rgba(186, 186, 186, 0) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(185, 185, 185, 0)), color-stop(56%, #cacaca), color-stop(100%, rgba(186, 186, 186, 0)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(185, 185, 185, 0) 0%, #cacaca 56%, rgba(186, 186, 186, 0) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(185, 185, 185, 0) 0%, #cacaca 56%, rgba(186, 186, 186, 0) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(185, 185, 185, 0) 0%, #cacaca 56%, rgba(186, 186, 186, 0) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(185, 185, 185, 0) 0%, #cacaca 56%, rgba(186, 186, 186, 0) 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00b9b9b9', endColorstr='#00bababa',GradientType=0 );
+  /* IE6-9 */ }
+.ignitiondeck .progress-percentage {
+  color: #444444; }
+.ignitiondeck .id-progress-raised, .ignitiondeck .id-product-total {
+  color: #444444; }
+.ignitiondeck .id-product-funding, .ignitiondeck .id-product-pledges {
+  color: #777777; }
+.ignitiondeck .id-product-days {
+  color: #444444; }
+.ignitiondeck .id-product-days-to-go {
+  color: #444444; }
+.ignitiondeck .id-product-proposed-end {
+  color: #777777;
+  font-weight: lighter; }
+.ignitiondeck .id-product-description {
+  color: #444444; }
+.ignitiondeck a.main-btn {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background-image: white;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(white 0%, white 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(white 0%, white 100%);
+  background-image: -o-linear-gradient(white 0%, white 100%);
+  background-image: -ms-linear-gradient(white 0%, white 100%);
+  background-image: linear-gradient(white 0%, white 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0);
+  color: #999999 !important;
+  -moz-box-shadow: 0 3px 0 0 #7f7f7f;
+  -webkit-box-shadow: 0 3px 0 0 #7f7f7f;
+  box-shadow: 0 3px 0 0 #7f7f7f; }
+.ignitiondeck a.main-btn:hover, .ignitiondeck a.main-btn:active {
+  background-image: white;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(white 0%, white 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(white 0%, white 100%);
+  background-image: -o-linear-gradient(white 0%, white 100%);
+  background-image: -ms-linear-gradient(white 0%, white 100%);
+  background-image: linear-gradient(white 0%, white 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0);
+  color: #666666 !important;
+  -moz-box-shadow: 0 1px 1px 0 #7f7f7f;
+  -webkit-box-shadow: 0 1px 1px 0 #7f7f7f;
+  box-shadow: 0 1px 1px 0 #7f7f7f; }
+.ignitiondeck a.learn-more-button {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background-image: white;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(white 0%, white 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(white 0%, white 100%);
+  background-image: -o-linear-gradient(white 0%, white 100%);
+  background-image: -ms-linear-gradient(white 0%, white 100%);
+  background-image: linear-gradient(white 0%, white 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0);
+  color: #999999 !important;
+  -moz-box-shadow: 0 3px 0 0 #7f7f7f;
+  -webkit-box-shadow: 0 3px 0 0 #7f7f7f;
+  box-shadow: 0 3px 0 0 #7f7f7f; }
+.ignitiondeck a.learn-more-button:hover, .ignitiondeck a.learn-more-button:active {
+  background-image: white;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(white 0%, white 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(white 0%, white 100%);
+  background-image: -o-linear-gradient(white 0%, white 100%);
+  background-image: -ms-linear-gradient(white 0%, white 100%);
+  background-image: linear-gradient(white 0%, white 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0);
+  color: #666666 !important; }
+.ignitiondeck .id-product-levels a .level-group {
+  -webkit-transition: all 200ms ease-in-out 0;
+  -moz-transition: all 200ms ease-in-out 0;
+  -o-transition: all 200ms ease-in-out 0;
+  transition: all 200ms ease-in-out 0;
+  background: rgba(255, 255, 255, 0.5); }
+.ignitiondeck .id-product-levels a .level-group:hover {
+  background: rgba(255, 255, 255, 0.9); }
+.ignitiondeck .id-product-levels a .id-level-title {
+  background: rgba(127, 127, 127, 0.8);
+  color: #fff;
+  -webkit-transition: all 300ms ease 0;
+  -moz-transition: all 300ms ease 0;
+  -o-transition: all 300ms ease 0;
+  transition: all 300ms ease 0; }
+.ignitiondeck .id-product-levels a .level-group:hover .id-level-title {
+  background: #7f7f7f; }
+.ignitiondeck .id-product-levels a .id-level-title span {
+  font-weight: lighter; }
+.ignitiondeck .id-product-levels a .id-level-desc {
+  color: #444444; }
+.ignitiondeck .id-product-levels a .id-level-desc p {
+  color: #444444; }
+.ignitiondeck .id-product-levels a .id-level-counts {
+  color: #a55959; }
+.ignitiondeck .poweredbyID span a {
+  background: transparent url(images/poweredbyID.png) no-repeat center center;
+  background-size: 136px 39px; }
+.ignitiondeck.id-creatorprofile {
+  color: #444444;
+  background-image: rgba(127, 127, 127, 0.2);
+  /* Old browsers */
+  background-image: -moz-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0.3)), color-stop(100%, rgba(127, 127, 127, 0.2)));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -o-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -ms-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4DFFFFFF', endColorstr='#337F7F7F',GradientType=0);
+  border: none; }
+  .ignitiondeck.id-creatorprofile .id-creator-links a.facebook, .ignitiondeck.id-creatorprofile .id-creator-links a.twitter, .ignitiondeck.id-creatorprofile .id-creator-links a.gplus {
+    color: #d8d8d8; }
+
+.ignitiondeck .id-purchase-form-wrapper, .ignitiondeck .id-fes-form-wrapper {
+  background-image: rgba(127, 127, 127, 0.2);
+  /* Old browsers */
+  background-image: -moz-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0.3)), color-stop(100%, rgba(127, 127, 127, 0.2)));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -o-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: -ms-linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.3) 0%, rgba(127, 127, 127, 0.2) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4DFFFFFF', endColorstr='#337F7F7F',GradientType=0); }
+.ignitiondeck .id-purchase-form {
+  border: none; }
+.ignitiondeck form {
+  border: none;
+  color: #444444; }
+  .ignitiondeck form h1, .ignitiondeck form h2, .ignitiondeck form h3, .ignitiondeck form h4, .ignitiondeck form h5, .ignitiondeck form h6, .ignitiondeck form .form-level {
+    border-bottom: 1px solid rgba(68, 68, 68, 0.3); }
+  .ignitiondeck form #stripe-input:after {
+    background: #75B83A;
+    color: #fff; }
+  .ignitiondeck form #id-notifications .notification {
+    background-color: #cee2f2;
+    border-color: #2e82ae;
+    color: #04294b; }
+  .ignitiondeck form #message-container .notification.error {
+    background-color: #F2D4CE;
+    border-color: #AE432E;
+    color: #4b0505; }
+  .ignitiondeck form #message-container .close-notification {
+    color: #737373; }
+  .ignitiondeck form .form-row label {
+    color: #777777; }
+  .ignitiondeck form .form-row input {
+    background-image: white;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(white 0%, white 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(white 0%, white 100%);
+    background-image: -o-linear-gradient(white 0%, white 100%);
+    background-image: -ms-linear-gradient(white 0%, white 100%);
+    background-image: linear-gradient(white 0%, white 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0); }
+  .ignitiondeck form .form-row input, .ignitiondeck form .form-row textarea, .ignitiondeck form .form-row select {
+    color: #444;
+    border: 1px solid #9CB0B9; }
+  .ignitiondeck form .finaldesc, .ignitiondeck form .finaldesc p {
+    color: #444444; }
+  .ignitiondeck form .main-btn, .ignitiondeck form input[type=submit] {
+    background-image: white;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(white 0%, white 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(white 0%, white 100%);
+    background-image: -o-linear-gradient(white 0%, white 100%);
+    background-image: -ms-linear-gradient(white 0%, white 100%);
+    background-image: linear-gradient(white 0%, white 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #999999;
+    -moz-box-shadow: 0 3px 0 0 #7f7f7f;
+    -webkit-box-shadow: 0 3px 0 0 #7f7f7f;
+    box-shadow: 0 3px 0 0 #7f7f7f; }
+  .ignitiondeck form .main-btn:hover, .ignitiondeck form input[type=submit]:hover {
+    background-image: white;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(white 0%, white 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(white 0%, white 100%);
+    background-image: -o-linear-gradient(white 0%, white 100%);
+    background-image: -ms-linear-gradient(white 0%, white 100%);
+    background-image: linear-gradient(white 0%, white 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0);
+    color: #666666; }
+  .ignitiondeck form .payment-errors {
+    color: rgba(255, 255, 255, 0.92);
+    background-color: rgba(183, 14, 14, 0.77); }
+  .ignitiondeck form .payment-type-selector a {
+    color: white;
+    background-image: #333333;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(rgba(127, 127, 127, 0.8) 0%, #333333 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(127, 127, 127, 0.8)), color-stop(100%, #333333));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(rgba(127, 127, 127, 0.8) 0%, #333333 100%);
+    background-image: -o-linear-gradient(rgba(127, 127, 127, 0.8) 0%, #333333 100%);
+    background-image: -ms-linear-gradient(rgba(127, 127, 127, 0.8) 0%, #333333 100%);
+    background-image: linear-gradient(rgba(127, 127, 127, 0.8) 0%, #333333 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC7F7F7F', endColorstr='#FF333333',GradientType=0); }
+  .ignitiondeck form .payment-type-selector a:hover {
+    border: 1px solid #777777;
+    color: white; }
+  .ignitiondeck form .payment-type-selector a.active {
+    border: 1px solid #777777;
+    color: white; }
+  .ignitiondeck form .payment-type-selector a.active:hover {
+    color: white; }
+  .ignitiondeck form .id-checkout-level-desc {
+    background-color: rgba(255, 255, 255, 0.4);
+    color: rgba(68, 68, 68, 0.7); }
+  .ignitiondeck form .ign-checkout-price {
+    color: #444444; }
+  .ignitiondeck form label.dd-option-text {
+    color: #7f7f7f; }
+  .ignitiondeck form .dd-option-description {
+    border-left: 1px solid #d8d8d8; }
+  .ignitiondeck form .required-mark {
+    color: #7f7f7f; }
+  .ignitiondeck form .red-border {
+    border: 1px solid red; }
+  .ignitiondeck form .form-item-error-msg {
+    font-size: 10.66667px;
+    font-weight: bold;
+    color: red; }

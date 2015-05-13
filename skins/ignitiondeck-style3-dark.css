@@ -1,0 +1,214 @@
+.ignitiondeck .id-product-infobox {
+  background: rgba(97, 97, 97, 0.6);
+  color: white; }
+.ignitiondeck .progress-wrapper {
+  background: transparent url(images/skyscraper-progressbar.png) repeat-x 0 top;
+  border-bottom: 1px solid #343434; }
+.ignitiondeck .progress-bar {
+  background: #d7d7d7 url(images/skyscraper-progressbar_fill.jpg) repeat-x center; }
+.ignitiondeck .progress-percentage {
+  color: #fff; }
+.ignitiondeck .id-progress-raised, .ignitiondeck .id-product-total {
+  color: white; }
+.ignitiondeck .id-product-funding, .ignitiondeck .id-product-pledges {
+  color: #d5d5d5; }
+.ignitiondeck .id-product-days {
+  color: white; }
+.ignitiondeck .id-product-days-to-go {
+  color: white; }
+.ignitiondeck .id-product-proposed-end {
+  color: #d5d5d5;
+  font-weight: lighter; }
+.ignitiondeck .id-product-description {
+  color: white; }
+.ignitiondeck a.main-btn, .ignitiondeck a.learn-more-button, .ignitiondeck a.learn-more-button:hover, .ignitiondeck a.learn-more-button:active {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background-image: #bebebe;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f1f1f1), color-stop(100%, #bebebe));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+  background-image: -o-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+  background-image: -ms-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+  background-image: linear-gradient(#f1f1f1 0%, #bebebe 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF1F1F1', endColorstr='#FFBEBEBE',GradientType=0);
+  color: #2a2a2a !important;
+  -moz-box-shadow: 0 2px 2px 0 #333333;
+  -webkit-box-shadow: 0 2px 2px 0 #333333;
+  box-shadow: 0 2px 2px 0 #333333; }
+.ignitiondeck a.main-btn:hover, .ignitiondeck a.main-btn:active {
+  background-image: #b1b1b1;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(white 0%, #b1b1b1 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #b1b1b1));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(white 0%, #b1b1b1 100%);
+  background-image: -o-linear-gradient(white 0%, #b1b1b1 100%);
+  background-image: -ms-linear-gradient(white 0%, #b1b1b1 100%);
+  background-image: linear-gradient(white 0%, #b1b1b1 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFB1B1B1',GradientType=0);
+  color: black !important;
+  -moz-box-shadow: 0 2px 0 0 #333333;
+  -webkit-box-shadow: 0 2px 0 0 #333333;
+  box-shadow: 0 2px 0 0 #333333; }
+.ignitiondeck .id-product-levels .level-group {
+  -webkit-transition: all 200ms ease-in-out 0;
+  -moz-transition: all 200ms ease-in-out 0;
+  -o-transition: all 200ms ease-in-out 0;
+  transition: all 200ms ease-in-out 0;
+  background: rgba(195, 195, 195, 0.5); }
+.ignitiondeck .id-product-levels .level-group:hover {
+  background: rgba(221, 221, 221, 0.7); }
+.ignitiondeck .id-product-levels .id-level-title {
+  background: rgba(221, 221, 221, 0.5);
+  color: #7c1a20;
+  -webkit-transition: all 300ms ease 0;
+  -moz-transition: all 300ms ease 0;
+  -o-transition: all 300ms ease 0;
+  transition: all 300ms ease 0; }
+.ignitiondeck .id-product-levels .level-group:hover .id-level-title {
+  background: rgba(246, 246, 246, 0.5); }
+.ignitiondeck .id-product-levels .id-level-title span {
+  font-weight: lighter;
+  color: #2a2a2a; }
+.ignitiondeck .id-product-levels .id-level-desc {
+  color: #2a2a2a; }
+.ignitiondeck .id-product-levels .id-level-desc p {
+  color: #2a2a2a; }
+.ignitiondeck .id-product-levels .id-level-counts {
+  color: #841319; }
+.ignitiondeck .poweredbyID span a {
+  background: transparent url(images/poweredbyID-bright.png) no-repeat center center;
+  background-size: 136px 39px; }
+.ignitiondeck.id-creatorprofile {
+  color: white;
+  background: rgba(97, 97, 97, 0.6);
+  border: none; }
+  .ignitiondeck.id-creatorprofile .id-creator-links a {
+    color: #fff; }
+
+.ignitiondeck .id-purchase-form-wrapper, .ignitiondeck .id-fes-form-wrapper {
+  background: rgba(97, 97, 97, 0.6);
+  color: white; }
+.ignitiondeck .id-purchase-form {
+  border: none; }
+.ignitiondeck form {
+  border: none;
+  color: white; }
+  .ignitiondeck form h1, .ignitiondeck form h2, .ignitiondeck form h3, .ignitiondeck form h4, .ignitiondeck form h5, .ignitiondeck form h6, .ignitiondeck form .form-level {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+  .ignitiondeck form #stripe-input:after {
+    background: #75B83A;
+    color: #fff; }
+  .ignitiondeck form #id-notifications .notification {
+    background-color: #cee2f2;
+    border-color: #2e82ae;
+    color: #04294b; }
+  .ignitiondeck form #message-container .notification.error {
+    background-color: #F2D4CE;
+    border-color: #AE432E;
+    color: #4b0505; }
+  .ignitiondeck form #message-container .close-notification {
+    color: #737373; }
+  .ignitiondeck form .form-row label {
+    color: white; }
+  .ignitiondeck form .form-row input {
+    background-image: white;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(white 0%, white 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(white 0%, white 100%);
+    background-image: -o-linear-gradient(white 0%, white 100%);
+    background-image: -ms-linear-gradient(white 0%, white 100%);
+    background-image: linear-gradient(white 0%, white 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFFFFFF',GradientType=0); }
+  .ignitiondeck form .form-row input, .ignitiondeck form .form-row textarea, .ignitiondeck form .form-row select {
+    color: #444;
+    border: 1px solid #9CB0B9; }
+  .ignitiondeck form .finaldesc, .ignitiondeck form .finaldesc p {
+    color: white; }
+  .ignitiondeck form .main-btn, .ignitiondeck form .form-row input[type=submit] {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-image: #bebebe;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f1f1f1), color-stop(100%, #bebebe));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+    background-image: -o-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+    background-image: -ms-linear-gradient(#f1f1f1 0%, #bebebe 100%);
+    background-image: linear-gradient(#f1f1f1 0%, #bebebe 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF1F1F1', endColorstr='#FFBEBEBE',GradientType=0);
+    color: #2a2a2a;
+    -moz-box-shadow: 0 2px 2px 0 #909090;
+    -webkit-box-shadow: 0 2px 2px 0 #909090;
+    box-shadow: 0 2px 2px 0 #909090;
+    border: none;
+    -webkit-transition: all 300ms ease 0;
+    -moz-transition: all 300ms ease 0;
+    -o-transition: all 300ms ease 0;
+    transition: all 300ms ease 0; }
+  .ignitiondeck form .main-btn:hover, .ignitiondeck form .form-row input[type=submit]:hover {
+    background-image: #b1b1b1;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(white 0%, #b1b1b1 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #b1b1b1));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(white 0%, #b1b1b1 100%);
+    background-image: -o-linear-gradient(white 0%, #b1b1b1 100%);
+    background-image: -ms-linear-gradient(white 0%, #b1b1b1 100%);
+    background-image: linear-gradient(white 0%, #b1b1b1 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFB1B1B1',GradientType=0);
+    color: #2a2a2a;
+    -moz-box-shadow: 0 2px 0 0 #909090;
+    -webkit-box-shadow: 0 2px 0 0 #909090;
+    box-shadow: 0 2px 0 0 #909090; }
+  .ignitiondeck form .payment-errors {
+    color: rgba(255, 255, 255, 0.92);
+    background-color: rgba(183, 14, 14, 0.77); }
+  .ignitiondeck form .payment-type-selector a {
+    color: #2a2a2a;
+    background-image: #e3cbcb;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(rgba(215, 215, 215, 0.8) 0%, #e3cbcb 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(215, 215, 215, 0.8)), color-stop(100%, #e3cbcb));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(rgba(215, 215, 215, 0.8) 0%, #e3cbcb 100%);
+    background-image: -o-linear-gradient(rgba(215, 215, 215, 0.8) 0%, #e3cbcb 100%);
+    background-image: -ms-linear-gradient(rgba(215, 215, 215, 0.8) 0%, #e3cbcb 100%);
+    background-image: linear-gradient(rgba(215, 215, 215, 0.8) 0%, #e3cbcb 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#CCD7D7D7', endColorstr='#FFE3CBCB',GradientType=0);
+    border: 1px solid black; }
+  .ignitiondeck form .payment-type-selector a:hover {
+    border: 1px solid white;
+    color: #2a2a2a; }
+  .ignitiondeck form .payment-type-selector a.active {
+    border: 1px solid white;
+    color: #2a2a2a; }
+  .ignitiondeck form .payment-type-selector a.active:hover {
+    color: #2a2a2a; }
+  .ignitiondeck form .id-checkout-level-desc {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.7); }
+  .ignitiondeck form .ign-checkout-price {
+    color: white; }
+  .ignitiondeck form label.dd-selected-text {
+    color: #d7d7d7; }
+  .ignitiondeck form label.dd-option-text {
+    color: #d7d7d7; }
+  .ignitiondeck form .dd-option-description {
+    border-left: 1px solid #616161; }
+  .ignitiondeck form .required-mark {
+    color: #d02c36; }
+  .ignitiondeck form .red-border {
+    border: 1px solid red; }
+  .ignitiondeck form .form-item-error-msg {
+    font-size: 10.66667px;
+    font-weight: bold;
+    color: red; }

@@ -1,0 +1,192 @@
+.ignitiondeck .id-product-infobox {
+  background: rgba(216, 216, 216, 0.1); }
+.ignitiondeck .progress-wrapper {
+  background: rgba(42, 116, 207, 0.5); }
+.ignitiondeck .progress-bar {
+  background: #94b228; }
+.ignitiondeck .progress-percentage {
+  color: white; }
+.ignitiondeck .id-progress-raised, .ignitiondeck .id-product-total {
+  color: white; }
+.ignitiondeck .id-product-funding, .ignitiondeck .id-product-pledges {
+  color: #9c9c9c; }
+.ignitiondeck .id-product-days {
+  color: white; }
+.ignitiondeck .id-product-days-to-go {
+  color: white; }
+.ignitiondeck .id-product-proposed-end {
+  color: #9c9c9c;
+  font-weight: lighter; }
+.ignitiondeck .id-product-description {
+  background: rgba(39, 39, 39, 0.5);
+  color: #9c9c9c; }
+.ignitiondeck a.main-btn, .ignitiondeck a.learn-more-button {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background-image: #94b228;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(#a6d307 0%, #94b228 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a6d307), color-stop(100%, #94b228));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(#a6d307 0%, #94b228 100%);
+  background-image: -o-linear-gradient(#a6d307 0%, #94b228 100%);
+  background-image: -ms-linear-gradient(#a6d307 0%, #94b228 100%);
+  background-image: linear-gradient(#a6d307 0%, #94b228 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFA6D307', endColorstr='#FF94B228',GradientType=0);
+  color: #2c350c !important; }
+.ignitiondeck a.main-btn:hover, .ignitiondeck a.main-btn:active, .ignitiondeck a.learn-more-button:hover, .ignitiondeck a.learn-more-button:active {
+  background-image: #94b228;
+  /* Old browsers */
+  background-image: -moz-linear-gradient(#abda00 0%, #94b228 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #abda00), color-stop(100%, #94b228));
+  /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(#abda00 0%, #94b228 100%);
+  background-image: -o-linear-gradient(#abda00 0%, #94b228 100%);
+  background-image: -ms-linear-gradient(#abda00 0%, #94b228 100%);
+  background-image: linear-gradient(#abda00 0%, #94b228 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFABDA00', endColorstr='#FF94B228',GradientType=0);
+  color: black; }
+.ignitiondeck a.learn-more-button {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px; }
+.ignitiondeck .id-product-levels a .level-group {
+  -webkit-transition: all 200ms ease-in-out 0;
+  -moz-transition: all 200ms ease-in-out 0;
+  -o-transition: all 200ms ease-in-out 0;
+  transition: all 200ms ease-in-out 0;
+  background: rgba(39, 39, 39, 0.3); }
+.ignitiondeck .id-product-levels a .level-group:hover {
+  background: rgba(39, 39, 39, 0.6); }
+.ignitiondeck .id-product-levels a .id-level-title {
+  background: rgba(42, 116, 207, 0.5);
+  color: #fff;
+  -webkit-transition: all 300ms ease 0;
+  -moz-transition: all 300ms ease 0;
+  -o-transition: all 300ms ease 0;
+  transition: all 300ms ease 0; }
+.ignitiondeck .id-product-levels a .level-group:hover .id-level-title {
+  background: rgba(42, 116, 207, 0.7); }
+.ignitiondeck .id-product-levels a .id-level-title span {
+  font-weight: lighter; }
+.ignitiondeck .id-product-levels a .id-level-desc {
+  color: white; }
+.ignitiondeck .id-product-levels a .id-level-desc p {
+  color: white; }
+.ignitiondeck .id-product-levels a .id-level-counts {
+  color: #2a74cf; }
+.ignitiondeck .poweredbyID span a {
+  background: transparent url(images/poweredbyID-bright.png) no-repeat center center;
+  background-size: 136px 39px; }
+
+.ignitiondeck .id-purchase-form-wrapper {
+  background-color: rgba(216, 216, 216, 0.15); }
+.ignitiondeck .id-purchase-form {
+  border: none; }
+.ignitiondeck form {
+  border: none;
+  color: white; }
+  .ignitiondeck form h1, .ignitiondeck form h2, .ignitiondeck form h3, .ignitiondeck form h4, .ignitiondeck form h5, .ignitiondeck form h6, .ignitiondeck form .form-level {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+  .ignitiondeck form #stripe-input:after {
+    background: #75B83A;
+    color: #fff; }
+  .ignitiondeck form #id-notifications .notification {
+    background-color: #cee2f2;
+    border-color: #2e82ae;
+    color: #04294b; }
+  .ignitiondeck form #message-container .notification.error {
+    background-color: #F2D4CE;
+    border-color: #AE432E;
+    color: #4b0505; }
+  .ignitiondeck form #message-container .close-notification {
+    color: #737373; }
+  .ignitiondeck form .form-row label {
+    color: white; }
+  .ignitiondeck form .form-row input {
+    background-image: white;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(#f0f0f0 0%, white 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f0f0f0), color-stop(100%, white));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(#f0f0f0 0%, white 100%);
+    background-image: -o-linear-gradient(#f0f0f0 0%, white 100%);
+    background-image: -ms-linear-gradient(#f0f0f0 0%, white 100%);
+    background-image: linear-gradient(#f0f0f0 0%, white 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF0F0F0', endColorstr='#FFFFFFFF',GradientType=0); }
+  .ignitiondeck form .form-row input, .ignitiondeck form .form-row textarea, .ignitiondeck form .form-row select {
+    color: #444;
+    border: 1px solid #9CB0B9; }
+  .ignitiondeck form .finaldesc, .ignitiondeck form .finaldesc p {
+    color: white; }
+  .ignitiondeck form .main-btn, .ignitiondeck form .form-row input[type=submit] {
+    background-image: #94b228;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(#a6d307 0%, #94b228 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a6d307), color-stop(100%, #94b228));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(#a6d307 0%, #94b228 100%);
+    background-image: -o-linear-gradient(#a6d307 0%, #94b228 100%);
+    background-image: -ms-linear-gradient(#a6d307 0%, #94b228 100%);
+    background-image: linear-gradient(#a6d307 0%, #94b228 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFA6D307', endColorstr='#FF94B228',GradientType=0);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #2c350c; }
+  .ignitiondeck form .main-btn:hover, .ignitiondeck form .form-row input[type=submit]:hover {
+    background-image: #94b228;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(#abda00 0%, #94b228 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #abda00), color-stop(100%, #94b228));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(#abda00 0%, #94b228 100%);
+    background-image: -o-linear-gradient(#abda00 0%, #94b228 100%);
+    background-image: -ms-linear-gradient(#abda00 0%, #94b228 100%);
+    background-image: linear-gradient(#abda00 0%, #94b228 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFABDA00', endColorstr='#FF94B228',GradientType=0);
+    color: black; }
+  .ignitiondeck form .payment-errors {
+    color: rgba(255, 255, 255, 0.92);
+    background-color: rgba(183, 14, 14, 0.77); }
+  .ignitiondeck form .payment-type-selector a {
+    color: white;
+    background-image: #0570f4;
+    /* Old browsers */
+    background-image: -moz-linear-gradient(rgba(42, 116, 207, 0.8) 0%, #0570f4 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(42, 116, 207, 0.8)), color-stop(100%, #0570f4));
+    /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(rgba(42, 116, 207, 0.8) 0%, #0570f4 100%);
+    background-image: -o-linear-gradient(rgba(42, 116, 207, 0.8) 0%, #0570f4 100%);
+    background-image: -ms-linear-gradient(rgba(42, 116, 207, 0.8) 0%, #0570f4 100%);
+    background-image: linear-gradient(rgba(42, 116, 207, 0.8) 0%, #0570f4 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC2A74CF', endColorstr='#FF0570F4',GradientType=0); }
+  .ignitiondeck form .payment-type-selector a:hover {
+    border: 1px solid #9c9c9c;
+    color: white; }
+  .ignitiondeck form .payment-type-selector a.active {
+    border: 1px solid #9c9c9c;
+    color: white; }
+  .ignitiondeck form .payment-type-selector a.active:hover {
+    color: white; }
+  .ignitiondeck form .id-checkout-level-desc {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.7); }
+  .ignitiondeck form .ign-checkout-price {
+    color: white; }
+  .ignitiondeck form label.dd-selected-text {
+    color: #2a74cf; }
+  .ignitiondeck form label.dd-option-text {
+    color: #2a74cf; }
+  .ignitiondeck form .dd-option-description {
+    border-left: 1px solid #d8d8d8; }
+  .ignitiondeck form .required-mark {
+    color: #2a74cf; }
+  .ignitiondeck form .red-border {
+    border: 1px solid red; }
+  .ignitiondeck form .form-item-error-msg {
+    font-size: 10.66667px;
+    font-weight: bold;
+    color: red; }

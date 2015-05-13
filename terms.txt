@@ -1,0 +1,61 @@
+Our website grants you non-exclusive limited license to use the IgnitionDeck plugin and other products sold through our website (http://IgnitionDeck.com) by Virtuous Giant (the "products") in accordance with these Terms & Conditions (the "license) issued by our company.
+
+1. Plugin Licensing
+
+IgnitionDeck General PHP License
+
+The PHP code portions of IgnitionDeck are subject to the GNU General Public License, version 2 (http://www.gnu.org/licenses/gpl.html). All images, cascading style sheets, and JavaScript elements are released under the IgnitionDeck Proprietary Use License below.
+
+IgnitionDeck Proprietary Use License
+
+The IgnitionDeck Proprietary Use License is a GPL compatible license that applies only to the images, cascading style sheets, and JavaScript files contained in IgnitionDeck. These elements are the copyrighted intellectual property of Virtuous Giant and cannot be redistributed or used in any fashion other than as provided in this Agreement. Violation of this license will result in an immediate termination of support and updates.
+
+2. Delivery
+
+After we have successfully processed your payment, you will receive an email registration link, where you may join our members area and download your copy of IgnitionDeck. This may take up to 1 hour to arrive, but usually happens within minutes of placing the order. If you do not receive an email after this time period, please contact us.
+
+3. Updates
+
+IgnitionDeck beta supporters will receive a lifetime of free updates at the multi-site license level. All other purchasers will receive free updates and support for 1 year from date of purchase. To continue receiving updates and support after that time, a license renewal is required.
+
+4. Ownership
+
+You may not claim intellectual or exclusive ownership rights to any of our products. All products are property of Virtuous Giant. They are provided "as is" without warranty of any kind, expressed or implied. We shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use our products.
+
+5. Site Content
+
+All site content, including imagery and documentation that is published on IgnitionDeck.com  is the property of Virtuous Giant. Any replicated site content must be authorized in advanced. Content from this site shall not be used or exploited for commercial or non-commercial purposes without the prior written consent of Rocketgenius, Inc..
+
+6. Refund Policy
+
+As we are offering non-tangible digital goods, we do not generally issue refunds after the purchase has been made. We will be happy to consider a refund within the first 30 days of your purchase if you are unable to get the plugin to install properly on your website or if the plugin fails to perform the basic functions as designed and you have worked with the product support team to try to resolve these issues. Refunds will be granted at the sole discretion of Virtuous Giant. No refunds will be given after 30 days from the initial purchase. Please note that by purchasing the plugin, you agree to the terms of the Refund Policy.
+
+7. Support
+
+Virtuous Giant offers WordPress software "as is" and with no implied meaning that they will function exactly as you would like or will be compatible with all 3rd party components and plugins. We do not offer support via email or otherwise support WordPress or other WordPress plugins we have not developed.
+
+Support is included with the purchase of IgnitionDeck, and is verified via user account.
+
+Support and product updates are provided for a term of 1 year from the time of purchase. After 1 year a new license will need to be purchased in order to continue receiving support and product updates.
+
+License holders cannot distribute, freely giveaway, or resell their license key. The license key is only transferable by contacting us and requesting an official transfer of the license to a new owner. The license is intended to be used on the license holders web site(s). Client site usage is permitted in situations where the license holder maintains an ongoing relationship with the client as a consultant. Only the license holder is permitted to request support or access support resources.
+
+License holders are not permitted to re-post support forum content or documentation on any external websites, social media outlets, etc. Posting screen captures of this content is also prohibited. Violation will be grounds for immediate termination of the support license and all access to support content and product updates will be discontinued.
+
+8. Transactional Emails
+
+Virtuous Giant may on occasion send you email notifications related to your IgnitionDeck license. These transactional emails may include notification of licensing changes, changes to our terms and conditions, license expiration notices and other transactional emails related to your purchase of Gravity Forms.
+
+9. Price Changes
+
+Virtuous Giant reserves the right, at any time, to modify or discontinue, temporarily or permanently, a support license with or without notice. Prices of all products are subject to change. Notice of price changes will be made on the site.
+
+10. Warranty
+
+Our plugin is guaranteed to function on a clean installation of WordPress 3.2+. We do not guarantee it will function with all 3rd party plugins, themes, or web browsers. We are not responsible for any plugin compatibility conflicts that may occur. It is our policy to support our plugins as best we can and we will provide support for 3rd party plugin conflicts at our discretion or as time allows. We are not responsible for any data loss that may occur as a result of installing this plugin.
+
+11. Acceptance
+
+By purchasing our product(s) you indicate that you have read and agree the Terms & Conditions detailed on this page.
+
+We reserve the right to change or modify the current Terms and Conditions with no prior notice.

@@ -1,0 +1,182 @@
+body, html {
+	margin: 0;
+}
+
+/* @group IgnitionDeck Embed Widget */
+
+.id-embedwidget {
+	min-width: 208px;
+	min-height: 360px;
+	max-width: 208px;
+	max-height: 360px;
+	border: 1px solid #333;
+	padding: 2px;
+	background-color: #fff;
+}
+.id-embedwidget .id-product-infobox{
+	padding: 7px;
+	font: 13px arial,freesans,clean,sans-serif;
+	background-color: #F3F3F3;
+	color: #000;
+	min-width: 194px;
+	min-height: 346px;
+	max-width: 194px;
+	max-height: 346px;
+	margin: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+.id-embedwidget .product-wrapper img{
+	margin: 0 auto;
+	border: 1px solid #333;
+	width: 190px;
+	height: 127px;
+}
+.id-embedwidget .product-wrapper img:hover{
+	border: 1px solid #ccc;
+	opacity: 0.95;
+}
+
+.id-embedwidget #poweredbyID span a {
+	background: none;
+	text-align: center;
+	display: block;
+	font-size: 11px;
+	text-decoration: none;
+	line-height: 10px;
+	width: auto;
+	height: auto;
+	margin: 10px 0 0 0;
+	color: #3591A9;
+	text-indent: 0;
+}
+.id-embedwidget #poweredbyID span a:hover {
+	text-decoration: none;
+	color: #333;
+}
+
+.id-embedwidget .main-btn {
+	font-size: 17px;
+	font-weight: bold;
+	padding: 0;
+	display: inline-block;
+	width: 192px;
+	text-align: center;
+	text-decoration: none;
+	background-color:transparent;
+	color: #333 !important;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	/*IE DOES NOT SUPPORT BORDER RADIUS*/
+	background-image: -moz-linear-gradient(top, #b0d839, #88c238);
+	background-image: -webkit-gradient(linear, center top, center bottom, from(#b0d839), to(#88c238));
+	background-image: -o-linear-gradient(top, #b0d839, #88c238);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b0d839', endColorstr='#88c238');
+	/*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+	/*Element must have a height (not auto)*/
+	/*All filters must be placed together*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#b0d839', endColorstr='#88c238')";
+	/*Element must have a height (not auto)*/
+	/*All filters must be placed together*/
+	background-image: linear-gradient(top, #b0d839, #88c238);
+	-moz-background-clip: padding-box;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	text-shadow: #cce589 1px 1px 1px;
+	line-height: 44px;
+	margin: 0;
+}
+.id-embedwidget a.main-btn:hover,a.main-btn:active {
+	text-decoration: none;
+}
+.id-embedwidget .id-product-infobox .main-btn:hover{
+    text-decoration: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+    /*IE DOES NOT SUPPORT BORDER RADIUS*/
+    background-image: -moz-linear-gradient(top, #CCF52B, #88c238);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#CCF52B), to(#88c238));
+    background-image: -o-linear-gradient(top, #CCF52B, #88c238);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#CCF52B', endColorstr='#88c238');
+    /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+    /*Element must have a height (not auto)*/
+    /*All filters must be placed together*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#CCF52B', endColorstr='#88c238')";
+    /*Element must have a height (not auto)*/
+    /*All filters must be placed together*/
+    background-image: linear-gradient(top, #CCF52B, #88c238);
+}
+.id-embedwidget .product-wrapper a {
+	text-decoration: underline;
+}
+.id-embedwidget .product-wrapper a:hover {
+	text-decoration: none;
+}
+.id-embedwidget .product-wrapper h2.id-product-title {
+	font: bold 13px/15px helvetica,arial,freesans,clean,sans-serif;
+	margin: 5px 0 2px 0;
+	text-align: left;
+}
+.id-embedwidget .id-product-description {
+	background: none;
+	font-size: 11px;
+	font-weight: normal;
+	line-height: 12px;
+	margin: 5px 0px;
+	padding: 0;
+	text-align: justify;
+	height: 80px;
+	overflow: hidden;
+	text-transform: none;
+}
+.id-embedwidget .progress-wrapper{
+	width: 192px;
+	height: 18px !important;
+	border: 0;
+	z-index: 5;
+	position: relative;
+	background: #41ABC8;
+	-webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px;
+}
+.id-embedwidget .progress-bar{
+	float: left;
+	max-width: 192px !important;
+	height: 18px !important;
+	background: #A1D92C;
+	-webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px;
+	-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;
+}
+.id-embedwidget .id-progress-raised{
+	position: absolute;
+	left: 5px;
+	margin: 0 auto;
+	font: normal 11px/18px Arial, sans-serif;
+	color: #000;
+	text-transform: uppercase;
+}
+
+.id-embedwidget .id-product-infobox .id-product-proposed-end {
+    background: none;
+	color: black;
+	margin: 0;
+    padding: 5px;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+
+.id-embedwidget .id-product-infobox .learn-more-btn {
+	text-align: center;
+	margin: 0 auto;
+}
+
+/* @end */
